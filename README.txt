@@ -1,3 +1,5 @@
+For my Bachelor thesis, I conducted research on State of Charge-induced battery degradation within the Electric Vehicle Routing Problem with Time Windows and Partial Recharge strategies (EVRP-TW-PR). To solve this complex optimization problem, I developed two algorithmic approaches in Python: an Adaptive Large Neighborhood Search (ALNS) metaheuristic and a Mixed Integer Linear Programming (MILP) model.
+
 ALNS directory: contains the Python project for running ALNS
 overview:
 	- ALNS.py: main file for running ALNS
