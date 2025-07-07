@@ -1,0 +1,62 @@
+{
+    "Total distance:": 167.98346924988405,
+    "Total battery degradation cost:": 0,
+    "Feasible?": true,
+    "Battery feasible?": true,
+    "All customers visited?": true,
+    "Time to obtain:": 217.97382235527039,
+    "Routes:": [
+        {
+            "Distance:": 167.98346924988405,
+            "Feasible": true,
+            "Battery feasible?": true,
+            "Visits:": [
+                {
+                    "Location:": 0,
+                    "Arrival time:": 0,
+                    "Charged quantity:": 0.0
+                },
+                {
+                    "Location:": 6,
+                    "Arrival time:": 15.524174696260024,
+                    "Charged quantity:": 0
+                },
+                {
+                    "Location:": 7,
+                    "Arrival time:": 173.21320343559643,
+                    "Charged quantity:": 0
+                },
+                {
+                    "Location:": 2,
+                    "Arrival time:": 190.2842712474619,
+                    "Charged quantity:": 43.80844594372193
+                },
+                {
+                    "Location:": 5,
+                    "Arrival time:": 215.36956516551345,
+                    "Charged quantity:": 0
+                },
+                {
+                    "Location:": 8,
+                    "Arrival time:": 281.83194201948584,
+                    "Charged quantity:": 0
+                },
+                {
+                    "Location:": 3,
+                    "Arrival time:": 301.83194201948584,
+                    "Charged quantity:": 66.13060556448687
+                },
+                {
+                    "Location:": 4,
+                    "Arrival time:": 364.2971198314202,
+                    "Charged quantity:": 0
+                },
+                {
+                    "Location:": 0,
+                    "Arrival time:": 406.0384048104053,
+                    "Charged quantity:": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Total distance:": 158.48065958430382,
+    "Total battery degradation cost:": 0,
+    "Feasible?": true,
+    "Battery feasible?": true,
+    "All customers visited?": true,
+    "Time to obtain:": 304.23810720443726,
+    "Routes:": [
+        {
+            "Distance:": 158.48065958430382,
+            "Feasible": true,
+            "Battery feasible?": true,
+            "Visits:": [
+                {
+                    "Location:": 0,
+                    "Arrival time:": 0,
+                    "Charged quantity:": 0.0
+                },
+                {
+                    "Location:": 5,
+                    "Arrival time:": 22.80350850198276,
+                    "Charged quantity:": 0
+                },
+                {
+                    "Location:": 8,
+                    "Arrival time:": 377.4499614791759,
+                    "Charged quantity:": 0
+                },
+                {
+                    "Location:": 7,
+                    "Arrival time:": 1527.0,
+                    "Charged quantity:": 0
+                },
+                {
+                    "Location:": 6,
+                    "Arrival time:": 1620.0,
+                    "Charged quantity:": 0
+                },
+                {
+                    "Location:": 3,
+                    "Arrival time:": 1719.4339811320567,
+                    "Charged quantity:": 57.478403650277436
+                },
+                {
+                    "Location:": 2,
+                    "Arrival time:": 1943.6428786047993,
+                    "Charged quantity:": 24.758836806279895
+                },
+                {
+                    "Location:": 4,
+                    "Arrival time:": 2049.2791252459065,
+                    "Charged quantity:": 0
+                },
+                {
+                    "Location:": 0,
+                    "Arrival time:": 2179.590413987399,
+                    "Charged quantity:": 0
+                }
+            ]
+        }
+    ]
+}
